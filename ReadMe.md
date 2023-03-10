@@ -8,6 +8,6 @@
 
 <a  href="Prac1Ber/Prac1Ber/Controllers/WeatherForecastController.cs" >Практическая 1</a>
 <a  href="Prac2/вторая/lab2/Controllers/WeatherForecastController.cs" >Практическая 2</a>
-
+<a  href="Prac4" >Практическая 4</a>
 
 
