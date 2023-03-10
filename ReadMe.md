@@ -10,6 +10,8 @@
 <br> </br>
 <a  href="Prac2/вторая/lab2/Controllers/WeatherForecastController.cs" >Практическая 2</a>
 <br> </br>
+<a  href="Prac3" >Практическая 3</a>
+<br> </br>
 <a  href="Prac4" >Практическая 4</a>
 
 
