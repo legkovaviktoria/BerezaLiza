@@ -1,0 +1,5 @@
+C:\Users\user\Desktop\Prac6\Prac6\obj\Debug\net7.0\MyConsoleApp.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Prac6\Prac6\obj\Debug\net7.0\MyConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Prac6\Prac6\obj\Debug\net7.0\MyConsoleApp.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Prac6\Prac6\obj\Debug\net7.0\MyConsoleApp.AssemblyInfo.cs
+C:\Users\user\Desktop\Prac6\Prac6\obj\Debug\net7.0\MyConsoleApp.csproj.CoreCompileInputs.cache
